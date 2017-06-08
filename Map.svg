@@ -20,6 +20,11 @@
    shape-rendering="crispEdges">
   <defs
      id="defs4">
+	 <filter id="crispify">
+<feComponentTransfer>
+<feFuncA type="discrete" tableValues="0 1"/>
+</feComponentTransfer>
+</filter>
     <inkscape:path-effect
        effect="skeletal"
        id="path-effect4146"
@@ -229,6 +234,7 @@
        height="161.06667"
        width="264.53333" />
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="47.801575"
@@ -240,6 +246,7 @@
          y="977.28033"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:1.06666672">Channeling Chamber</tspan></text>
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="47.941879"
@@ -262,6 +269,7 @@
          id="tspan3873"
          sodipodi:role="line">Channeling Chamber</tspan></text>
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:3.83999991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="180.09219"
@@ -271,12 +279,9 @@
          id="tspan4021-7"
          x="180.09219"
          y="1092.4036"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.20000076px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:3.83999991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Channeling Chamber</tspan><filter id="crispify">
-<feComponentTransfer>
-<feFuncA type="discrete" tableValues="0 1"/>
-</feComponentTransfer>
-</filter></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.20000076px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:3.83999991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Channeling Chamber</tspan></text>
     <text
+	filter="url(#crispify)"
        id="text3871-4"
        y="1092.4036"
        x="180.09219"
@@ -316,6 +321,7 @@
        cy="1017.1863"
        r="8.2666674" />
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="354.66666"
@@ -327,6 +333,7 @@
          y="1005.7197"
          style="font-size:10.66666698px;line-height:1.25;stroke-width:1.06666672"> </tspan></text>
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="165.60004"
@@ -338,6 +345,7 @@
          y="1005.3306"
          style="font-size:10.66666698px;line-height:1.25;stroke-width:1.06666672">V</tspan></text>
     <text
+	filter="url(#crispify)"
        id="text4186"
        y="1021.0639"
        x="205.92607"
@@ -357,6 +365,7 @@
        y="983.76965"
        ry="4.2403498" />
     <text
+	filter="url(#crispify)"
        id="text4558"
        y="997.29181"
        x="74.441879"
@@ -368,6 +377,7 @@
          id="tspan4556"
          sodipodi:role="line">Channeling Chamber</tspan></text>
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#403028;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="74.441879"
