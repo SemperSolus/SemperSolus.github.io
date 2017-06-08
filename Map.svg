@@ -271,7 +271,11 @@
          id="tspan4021-7"
          x="180.09219"
          y="1092.4036"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.20000076px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:3.83999991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Channeling Chamber</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.20000076px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:3.83999991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Channeling Chamber</tspan><filter id="crispify">
+<feComponentTransfer>
+<feFuncA type="discrete" tableValues="0 1"/>
+</feComponentTransfer>
+</filter></text>
     <text
        id="text3871-4"
        y="1092.4036"
