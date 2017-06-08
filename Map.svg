@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="192"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Map Scratch.svg"
+   viewBox="0 0 256 192"
+   shape-rendering="crispEdges">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4146"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4142"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4138"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4134"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4130"
+       is_visible="true"
+       pattern="m 0,5 10,5 V 0 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4126"
+       is_visible="true"
+       pattern="m 0,5 10,5 V 0 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4120"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4116"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect3947"
+       is_visible="true"
+       direction="45.140625,87.71875 , 29.398438,0"
+       dist_rdm="78.5;1"
+       growth="0"
+       do_bend="true"
+       bender="45.140625,92.71875 , 5,0"
+       bottom_edge_variation="1.0875;1"
+       top_edge_variation="1.0875;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+    <inkscape:path-effect
+       effect="construct_grid"
+       id="path-effect3945"
+       is_visible="true"
+       nr_x="5"
+       nr_y="5" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect3943"
+       is_visible="true"
+       bendpath="m -13.65625,92.71875 c 39.9743,3.93044 79.401245,-32.615506 117.59375,0"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false"
+       bendpath-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect3941"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="M -13.65625,87.28125 H 103.9375"
+       bendpath2="m 103.9375,87.28125 v 10.875"
+       bendpath3="M -13.65625,98.15625 H 103.9375"
+       bendpath4="m -13.65625,87.28125 v 10.875" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="39.662619"
+     inkscape:cy="105.5357"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="1432"
+     inkscape:window-y="273"
+     inkscape:window-maximized="1"
+     scale-x="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-930.51966)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bdb5ad;fill-opacity:1;fill-rule:nonzero;stroke:#423129;stroke-width:1.06666672;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3777"
+       width="255.30943"
+       height="145.98843"
+       x="-6.8562522"
+       y="948.25226"
+       ry="4.5230398" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bdb5ad;fill-opacity:1;fill-rule:nonzero;stroke:#423129;stroke-width:2.13333344;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3779"
+       width="67.477455"
+       height="64.320618"
+       x="-46.859352"
+       y="1106.976"
+       ry="3.349848" />
+    <image
+       y="924.41931"
+       x="271.53122"
+       id="image3001"
+       xlink:href="data:image/png;base64,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 "
+       height="209.06667"
+       width="272" />
+    <image
+       y="957.20862"
+       x="-296.52737"
+       id="image3012"
+       xlink:href="data:image/png;base64,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 "
+       height="161.06667"
+       width="264.53333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="47.801575"
+       y="977.28033"
+       id="text3015"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="47.801575"
+         y="977.28033"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:1.06666672">Channeling Chamber</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="47.941879"
+       y="1015.2918"
+       id="text4019"><tspan
+         sodipodi:role="line"
+         id="tspan4021"
+         x="47.941879"
+         y="1015.2918"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Channeling Chamber</tspan></text>
+    <text
+       id="text3871"
+       y="1015.2918"
+       x="47.941879"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#403028;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#403028;fill-opacity:1;stroke-width:1.06666672"
+         y="1015.2918"
+         x="47.941879"
+         id="tspan3873"
+         sodipodi:role="line">Channeling Chamber</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:3.83999991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="180.09219"
+       y="1092.4036"
+       id="text4019-1"><tspan
+         sodipodi:role="line"
+         id="tspan4021-7"
+         x="180.09219"
+         y="1092.4036"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.20000076px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:3.83999991;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Channeling Chamber</tspan></text>
+    <text
+       id="text3871-4"
+       y="1092.4036"
+       x="180.09219"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#403028;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.20000076px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#403028;fill-opacity:1;stroke-width:1.06666672"
+         y="1092.4036"
+         x="180.09219"
+         id="tspan3873-0"
+         sodipodi:role="line">Channeling Chamber</tspan></text>
+    <rect
+       ry="4.5230398"
+       y="809.05231"
+       x="-291.65625"
+       height="145.98843"
+       width="255.30943"
+       id="rect4170"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bdb5ad;fill-opacity:1;fill-rule:nonzero;stroke:#423129;stroke-width:4.26666689;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <rect
+       ry="1.8792222"
+       y="1033.5858"
+       x="-6.8562522"
+       height="60.65493"
+       width="255.30988"
+       id="rect4172"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#423129;stroke-width:4.26666689;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <circle
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2860f8;fill-opacity:1;stroke:#403028;stroke-width:1.06666672;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path4174"
+       cx="165.60002"
+       cy="1001.453"
+       r="8.2666674" />
+    <circle
+       id="path4176"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f80000;fill-opacity:1;stroke:#403028;stroke-width:1.06666672;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       cx="206.40002"
+       cy="1017.1863"
+       r="8.2666674" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="354.66666"
+       y="1005.7197"
+       id="text4178"><tspan
+         sodipodi:role="line"
+         id="tspan4180"
+         x="356.54166"
+         y="1005.7197"
+         style="font-size:10.66666698px;line-height:1.25;stroke-width:1.06666672"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="165.60004"
+       y="1005.3306"
+       id="text4182"><tspan
+         sodipodi:role="line"
+         id="tspan4184"
+         x="165.60004"
+         y="1005.3306"
+         style="font-size:10.66666698px;line-height:1.25;stroke-width:1.06666672">V</tspan></text>
+    <text
+       id="text4186"
+       y="1021.0639"
+       x="205.92607"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       xml:space="preserve"><tspan
+         y="1021.0639"
+         x="205.92607"
+         id="tspan4188"
+         sodipodi:role="line"
+         style="font-size:10.66666698px;line-height:1.25;stroke-width:1.06666672">K</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#403028;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4528"
+       width="148.5"
+       height="20.5"
+       x="-5.75"
+       y="983.76965"
+       ry="4.2403498" />
+    <text
+       id="text4558"
+       y="997.29181"
+       x="74.441879"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="997.29181"
+         x="74.441879"
+         id="tspan4556"
+         sodipodi:role="line">Channeling Chamber</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#403028;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="74.441879"
+       y="997.41681"
+       id="text4524"><tspan
+         sodipodi:role="line"
+         id="tspan4522"
+         x="74.441879"
+         y="997.41681"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#403028;fill-opacity:1;stroke-width:1.06666672">Channeling Chamber</tspan></text>
+  </g>
+</svg>
