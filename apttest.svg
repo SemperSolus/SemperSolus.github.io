@@ -21,11 +21,13 @@
   <defs
      id="defs4">
 	 <filter id="crispify">
-<feComponentTransfer>
-<feFuncA type="discrete" tableValues="0 
 
-1"/>
+<feComponentTransfer>
+
+<feFuncA type="discrete" tableValues="0 1"/>
+
 </feComponentTransfer>
+
 </filter>
     <inkscape:path-effect
        effect="skeletal"
