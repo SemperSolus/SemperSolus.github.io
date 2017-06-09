@@ -19,6 +19,13 @@
    viewBox="0 0 256 192"
    shape-rendering="crispEdges">
   <defs
+  <filter id="crispify">
+<feComponentTransfer>
+<feFuncA type="discrete" tableValues="0 
+
+1"/>
+</feComponentTransfer>
+</filter>
      id="defs4">
     <inkscape:path-effect
        effect="skeletal"
@@ -367,6 +374,7 @@
        height="161.06667"
        width="264.53333" />
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="47.941879"
@@ -378,6 +386,7 @@
          y="915.29181"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#e0e0e0;fill-opacity:1;stroke:#e0e0e0;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Channeling Chamber</tspan></text>
     <text
+	filter="url(#crispify)"
        id="text3871"
        y="915.29181"
        x="47.941879"
@@ -397,6 +406,7 @@
        id="rect4170"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bdb5ad;fill-opacity:1;fill-rule:nonzero;stroke:#423129;stroke-width:4.26666689;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="354.66666"
@@ -417,6 +427,7 @@
          id="path4174"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2860f8;fill-opacity:1;stroke:#403028;stroke-width:1.06666672;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
       <text
+	  filter="url(#crispify)"
          id="text4182"
          y="1005.3306"
          x="165.60004"
@@ -438,6 +449,7 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f80000;fill-opacity:1;stroke:#403028;stroke-width:1.06666672;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="path4176" />
       <text
+	  filter="url(#crispify)"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
          x="205.92607"
@@ -505,6 +517,7 @@ YII=
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#423129;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        inkscape:connector-curvature="0" />
     <text
+	filter="url(#crispify)"
        id="text5473"
        y="1047.7917"
        x="114.44188"
@@ -516,6 +529,7 @@ YII=
          id="tspan5471"
          sodipodi:role="line">W.C.</tspan></text>
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#403028;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.44188"
@@ -527,6 +541,7 @@ YII=
          y="1047.7917"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#403028;fill-opacity:1;stroke-width:1.06666672">W.C.</tspan></text>
     <text
+	filter="url(#crispify)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#403028;fill-opacity:1;stroke:#e0e0e0;stroke-width:2;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square"
        x="172.44188"
@@ -538,6 +553,7 @@ YII=
          y="1057.7917"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#403028;fill-opacity:1;stroke-width:2;stroke:#e0e0e0;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square">Bedroom</tspan></text>
     <text
+	filter="url(#crispify)"
        id="text5372"
        y="1057.7917"
        x="172.44188"
