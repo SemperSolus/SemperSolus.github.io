@@ -19,14 +19,14 @@
    viewBox="0 0 256 192"
    shape-rendering="crispEdges">
   <defs
-  <filter id="crispify">
+     id="defs4">
+	 <filter id="crispify">
 <feComponentTransfer>
 <feFuncA type="discrete" tableValues="0 
 
 1"/>
 </feComponentTransfer>
 </filter>
-     id="defs4">
     <inkscape:path-effect
        effect="skeletal"
        id="path-effect5449"
