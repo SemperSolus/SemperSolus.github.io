@@ -3,7 +3,8 @@ $sprite=$_GET["sprite"];
 $talent=$_GET["talent"];
 $name=$_GET["name"];
 $bgcolor=$_GET["bgcolor"];
-echo'<?xml version="1.0" encoding="UTF-8" standalone="no"?>';
+echo '<?xml version="1.0" encoding="UTF-8" standalone="no" ?>';
+?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
@@ -57,7 +58,7 @@ echo'<?xml version="1.0" encoding="UTF-8" standalone="no"?>';
      inkscape:current-layer="svg2" />
 <!--Below is the background rectangle. It's easy to see where to change the color. -->
 	 <rect
-     style="fill:#<?php echo $bgcolor;?>;fill-opacity:1;stroke:none;stroke-width:1.12800002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:<?php echo $bgcolor;?>;fill-opacity:1;stroke:none;stroke-width:1.12800002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4583"
      width="256"
      height="192"
