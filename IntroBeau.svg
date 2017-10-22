@@ -52,7 +52,7 @@
      inkscape:current-layer="svg2" />
   <!--Below is the background rectangle. It's easy to see where to change the color. -->
   <rect
-     style="fill:#138f51;fill-opacity:1;stroke:none;stroke-width:1.12800002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#d4d4b2;fill-opacity:1;stroke:none;stroke-width:1.12800002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4583"
      width="256"
      height="192"
@@ -158,17 +158,17 @@
        x="266.64273"
        y="90.613014"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;line-height:68.78443146px;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:end;word-spacing:0.27513775px;text-anchor:end;stroke-width:1.37568867"
-       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0">ERNEST TOCKER</tspan></text>
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0">BEAU SHARP</tspan></text>
   <!-- Yeah, change the link below when you make it a php -->
   <image
      width="256"
      height="192"
      preserveAspectRatio="none"
-     xlink:href="https://i.imgur.com/cKsKEs9.gif"
+     xlink:href="https://i.imgur.com/NLZTFIE.gif"
      id="image10"
      x="-64"
      y="0"
-     sodipodi:absref="C:\Users\Eitan\Downloads\Fancase Crap\DR Crossover\Ernest Tocker\normal-a.gif" />
+     sodipodi:absref="C:\Fancase Crap\DR Crossover\Beau Sharp\normal-a.gif" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -180,5 +180,5 @@
        id="tspan4599"
        x="266.53415"
        y="69.778511"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333333px;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard Italic';text-align:end;text-anchor:end">Ultimate Honesty</tspan></text>
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333333px;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard Italic';text-align:end;text-anchor:end">Ultimate Cellist</tspan></text>
 </svg>
