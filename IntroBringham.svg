@@ -121,7 +121,7 @@
        from="360 219.6 86"
        to="0 219.6 86"
        begin="0s"
-       dur="1s"
+       dur="2s"
        repeatCount="indefinite" />
   </g>
   <path
@@ -135,7 +135,7 @@
        from="0 219.608 86.458"
        to="360 219.608 86.458"
        begin="0s"
-       dur="1s"
+       dur="2s"
        repeatCount="indefinite" />
   </path>
   <rect
